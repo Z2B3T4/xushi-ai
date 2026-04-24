@@ -36,4 +36,5 @@
 https://xushi.chat
 
 # 项目成果
-![Uploading e14567fe-dd2f-42da-a5e8-b78ef74ef6e4.png…]()
+推文地址：
+https://mp.weixin.qq.com/s/uTtcTnX0Olsev847mn21NA?color_scheme=light
